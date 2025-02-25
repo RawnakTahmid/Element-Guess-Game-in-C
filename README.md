@@ -62,5 +62,5 @@ The element is Hydrogen.
 This project is open-source and available for modification and distribution.
 
 ---
-Developed by [Your Name]
+Developed by Rawnak Tahmid
 
